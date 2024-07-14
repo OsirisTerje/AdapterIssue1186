@@ -14,4 +14,11 @@ public class Tests
     {
 
     }
+
+     [Test]
+     [Category("Foo")]
+    public void FooTest()
+    {
+        Console.WriteLine("All is good");
+    }
 }
