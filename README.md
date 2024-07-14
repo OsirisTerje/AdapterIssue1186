@@ -1,0 +1,1 @@
+"# AdapterIssue1186" 
